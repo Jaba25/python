@@ -225,7 +225,7 @@ while idx < len(l):
 		break
 	idx += 1
 else:
-;	l.append(val)
+	l.append(val)
 print(l)
 
 ```
